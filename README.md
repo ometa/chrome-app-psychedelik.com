@@ -2,6 +2,9 @@
 
 A simple chrome app to load up my favorite psytrance internet radio station - [http://psychedelik.com](http://psychedelik.com).
 
+![The app in action](img/example.png)
+
+
 ## Usage
 This Chrome app is not currently published to the Chrome app store.  Maybe [someday](https://developer.chrome.com/webstore/publish). It's easy to load into Chrome, though.
 
