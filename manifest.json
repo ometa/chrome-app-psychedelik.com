@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Psychedlik.com",
+  "description": "Open the Psychedlik.com streaming music website",
+  "version": "0.1",
+  "icons": {
+    "128": "psychedelik.png"
+  },
+  "app": {
+    "urls": [
+      "http://www.psychedelik.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.psychedelik.com/"
+    }
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}
